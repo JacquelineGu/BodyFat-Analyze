@@ -7,10 +7,10 @@ There are three folders providing more details in our main project, *code*, *ima
 
 ### code
 There are 4 R code files:
-*pre-clean.R*, *models.R*, *lasso.R* and *"multiplot.R"* in this folder. 
+*data.R*, *mlr.R*, *lasso.R* and *"multiplot.R"* in this folder. 
 
-* pre-clean.R visualized the data, removes outliers and divides the data into a train set and validation set. 
-* models.R constructs multiple linear models to predict BodyFat%. 
+* data.R visualized the data, removes outliers and divides the data into a train set and validation set. 
+* mlr.R constructs multiple linear models to predict BodyFat%. 
 * lasso.R uses Lasso method to do variable selection and constructs linear models to predict BodyFat%. 
 * multiplot.R works as a hearder file, which contains a plotting function helping us to make better graghs. 
 
