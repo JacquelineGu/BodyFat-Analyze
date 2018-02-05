@@ -15,7 +15,6 @@ There are 4 R code files:
 * multiplot.R works as a hearder file, which contains a plotting function helping us to make better graghs. 
 
 ### image
-### image
 This is an image folder containing all the figures/images/tables produced in our analysis.
 
 ### data
